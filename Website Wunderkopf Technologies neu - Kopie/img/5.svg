@@ -1,0 +1,29 @@
+<svg id="Gruppe_14" data-name="Gruppe 14" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="71.081" height="102.903" viewBox="0 0 71.081 102.903">
+  <defs>
+    <style>
+      .cls-1, .cls-3 {
+        fill: none;
+        stroke: #fff;
+        stroke-width: 4px;
+      }
+
+      .cls-2 {
+        clip-path: url(#clip-path);
+      }
+
+      .cls-3 {
+        stroke-linecap: round;
+        stroke-miterlimit: 10;
+      }
+    </style>
+    <clipPath id="clip-path">
+      <rect id="Rechteck_443" data-name="Rechteck 443" class="cls-1" width="71.081" height="102.903"/>
+    </clipPath>
+  </defs>
+  <g id="Gruppe_9" data-name="Gruppe 9" class="cls-2">
+    <path id="Pfad_42" data-name="Pfad 42" class="cls-3" d="M67.566,40.7c-19.26-11.8-33.033,8.772-33.033,8.772S20.759,28.9,1.5,40.7" transform="translate(1.007 48.335)"/>
+    <path id="Pfad_43" data-name="Pfad 43" class="cls-3" d="M5.047,27.945" transform="translate(3.391 32.745)"/>
+    <path id="Pfad_44" data-name="Pfad 44" class="cls-3" d="M47.924,17C36.834,8.692,28.9,23.165,28.9,23.165S20.971,8.692,9.882,17" transform="translate(6.639 18.821)"/>
+    <path id="Pfad_45" data-name="Pfad 45" class="cls-3" d="M40.3,8.762C34.5.14,28.021,10.79,28.021,10.79S24.85-2.407,17.149,2.657" transform="translate(11.522 1.956)"/>
+  </g>
+</svg>

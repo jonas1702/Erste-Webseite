@@ -1,0 +1,37 @@
+<svg id="Gruppe_13" data-name="Gruppe 13" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="132.156" height="132.156" viewBox="0 0 132.156 132.156">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-2 {
+        clip-path: url(#clip-path);
+      }
+
+      .cls-3 {
+        fill: #73dfd4;
+      }
+
+      .cls-4 {
+        fill: #4ab7ac;
+      }
+
+      .cls-5 {
+        fill: #fff;
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#e2287e"/>
+      <stop offset="1" stop-color="#326aea"/>
+    </linearGradient>
+    <clipPath id="clip-path">
+      <rect id="Rechteck_441" data-name="Rechteck 441" class="cls-1" width="132.156" height="132.156"/>
+    </clipPath>
+  </defs>
+  <g id="Gruppe_6" data-name="Gruppe 6" class="cls-2">
+    <path id="Pfad_32" data-name="Pfad 32" class="cls-3" d="M105.315,47.843l25.958,28.98A66.061,66.061,0,1,0,89.548,127.85L66.077,105.167Z" transform="translate(0 0.001)"/>
+    <path id="Pfad_33" data-name="Pfad 33" class="cls-4" d="M109.007,60.7,83.049,31.722,43.812,89.046l23.471,22.683A66.151,66.151,0,0,0,109.007,60.7" transform="translate(22.265 16.122)"/>
+    <path id="Pfad_34" data-name="Pfad 34" class="cls-5" d="M89.891,26.958c-18.932-13.165-32.473,9.779-32.473,9.779S43.875,13.793,24.943,26.958c-5.194,3.612-7.9,10.156-7.9,15.8,0,11.787,12.779,25.267,23.373,35.686a204.627,204.627,0,0,0,17,15.1,204.346,204.346,0,0,0,17-15.1c10.6-10.419,23.374-23.9,23.374-35.686,0-5.642-2.707-12.186-7.9-15.8" transform="translate(8.661 11.63)"/>
+  </g>
+</svg>

@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="100%" height="100%" viewBox="0 0 1087.113 310.699">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#e2287e"/>
+      <stop offset="1" stop-color="#326aea"/>
+    </linearGradient>
+    <clipPath id="clip-path">
+      <rect id="Rechteck_441" data-name="Rechteck 441" width="132.156" height="132.156" fill="url(#linear-gradient)"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <rect id="Rechteck_443" data-name="Rechteck 443" width="71.081" height="102.903" fill="none" stroke="#fff" stroke-width="4"/>
+    </clipPath>
+  </defs>
+  <g id="Gruppe_268" data-name="Gruppe 268" transform="translate(-144.147 -205)">
+    <path id="Pfad_36" data-name="Pfad 36" d="M1402.506,375.236,1152.032,226H388.507l945.5,260.517Z" transform="translate(-244.359 -21)" fill="#7fe6dc"/>
+    <path id="Pfad_53" data-name="Pfad 53" d="M1190.98,381.616l65.493,82.649v72.293L1155.1,536.7l-48.836-57.3Z" transform="translate(-25.212 -21)" fill="#645bce"/>
+    <g id="Gruppe_13" data-name="Gruppe 13" transform="translate(1053.522 341.734)">
+      <g id="Gruppe_6" data-name="Gruppe 6" clip-path="url(#clip-path)">
+        <path id="Pfad_32" data-name="Pfad 32" d="M105.315,47.843l25.958,28.98A66.061,66.061,0,1,0,89.548,127.85L66.077,105.167Z" transform="translate(0 0.001)" fill="#73dfd4"/>
+        <path id="Pfad_33" data-name="Pfad 33" d="M109.007,60.7,83.049,31.722,43.812,89.046l23.471,22.683A66.151,66.151,0,0,0,109.007,60.7" transform="translate(22.265 16.122)" fill="#4ab7ac"/>
+        <path id="Pfad_34" data-name="Pfad 34" d="M89.891,26.958c-18.932-13.165-32.473,9.779-32.473,9.779S43.875,13.793,24.943,26.958c-5.194,3.612-7.9,10.156-7.9,15.8,0,11.787,12.779,25.267,23.373,35.686a204.627,204.627,0,0,0,17,15.1,204.346,204.346,0,0,0,17-15.1c10.6-10.419,23.374-23.9,23.374-35.686,0-5.642-2.707-12.186-7.9-15.8" transform="translate(8.661 11.63)" fill="#fff"/>
+      </g>
+    </g>
+    <g id="Gruppe_14" data-name="Gruppe 14" transform="translate(1083.696 232.746)">
+      <g id="Gruppe_9" data-name="Gruppe 9" clip-path="url(#clip-path-2)">
+        <path id="Pfad_42" data-name="Pfad 42" d="M67.566,40.7c-19.26-11.8-33.033,8.772-33.033,8.772S20.759,28.9,1.5,40.7" transform="translate(1.007 48.335)" fill="none" stroke="#fff" stroke-linecap="round" stroke-miterlimit="10" stroke-width="4"/>
+        <path id="Pfad_43" data-name="Pfad 43" d="M5.047,27.945" transform="translate(3.391 32.745)" fill="none" stroke="#fff" stroke-linecap="round" stroke-miterlimit="10" stroke-width="4"/>
+        <path id="Pfad_44" data-name="Pfad 44" d="M47.924,17C36.834,8.692,28.9,23.165,28.9,23.165S20.971,8.692,9.882,17" transform="translate(6.639 18.821)" fill="none" stroke="#fff" stroke-linecap="round" stroke-miterlimit="10" stroke-width="4"/>
+        <path id="Pfad_45" data-name="Pfad 45" d="M40.3,8.762C34.5.14,28.021,10.79,28.021,10.79S24.85-2.407,17.149,2.657" transform="translate(11.522 1.956)" fill="none" stroke="#fff" stroke-linecap="round" stroke-miterlimit="10" stroke-width="4"/>
+      </g>
+    </g>
+    <path id="Pfad_54" data-name="Pfad 54" d="M148.485,7.8C105.2-17.391,74.245,26.5,74.245,26.5S43.282-17.391,0,7.8" transform="matrix(0.974, -0.225, 0.225, 0.974, 974.973, 322.113)" fill="none" stroke="#fff" stroke-linecap="round" stroke-miterlimit="10" stroke-width="4"/>
+  </g>
+</svg>
